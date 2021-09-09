@@ -24,3 +24,4 @@ C:\Users\geral\source\repos\JurosApi\JurosApi\obj\Debug\netcoreapp3.1\JurosApi.c
 C:\Users\geral\source\repos\JurosApi\JurosApi\obj\Debug\netcoreapp3.1\JurosApi.dll
 C:\Users\geral\source\repos\JurosApi\JurosApi\obj\Debug\netcoreapp3.1\JurosApi.pdb
 C:\Users\geral\source\repos\JurosApi\JurosApi\obj\Debug\netcoreapp3.1\JurosApi.genruntimeconfig.cache
+C:\Users\geral\source\repos\JurosApi\JurosApi\obj\Debug\netcoreapp3.1\JurosApi.csproj.AssemblyReference.cache
