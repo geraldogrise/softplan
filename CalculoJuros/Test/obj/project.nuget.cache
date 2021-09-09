@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5X2RdzriwyLyfSyeEWDtBEEndxXaPm8eVF3PAIq8IbSuTvNlE2kW2kPcNIK1/8M3QtddAZ24ESLDiadtN3XJ6A==",
+  "dgSpecHash": "VuSDTJzq74tuFR3bCwLhQ2Iptl9dMFHQ0xDeUTcDjSvkwZ8kPTTE/UNq21bolJQlKYvdpbtm2beyDFKsduGT5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\Test\\Test.csproj",
+  "projectFilePath": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

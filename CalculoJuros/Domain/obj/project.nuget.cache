@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+e2ABfqpK+36YbpB8QIB9g/9ZLFCEVoqqS2wRSR0wRr5o0D+u12R2DSYbt6RF4EhMkLD6biBjYP+T2J+1UeGLA==",
+  "dgSpecHash": "o49ipOsCGqNqmIoHDMPsPi9uGYusDsh428kl+nKW/+Ha3ABSO0A/cFhAN+2t1I1kOkA+/dwG0HRe8ge+A1t+Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace CalculoJuros.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("calculaJuros")]
     public class CalculaJurosController : ControllerBase
     {
         public CalculaJurosController()

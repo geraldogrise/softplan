@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LDmb3GYRlIhv4ezf2JGyxbwR4xdsN0dxMbGkolANjupmVVTx4xSeJvBcJCyfpaxKY/aaOT95X9ve78xeF03PKg==",
+  "dgSpecHash": "h5vucNgegKs6/PagMTvXAnN5pB2BTqQyLTm9rEffUo9SCsSZdxlgnGi1q/ZaaGnPASXELtUF4JoOQk3H/NBo6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\Test.csproj",
+  "projectFilePath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

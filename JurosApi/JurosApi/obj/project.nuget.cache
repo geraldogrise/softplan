@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2q5MjZFbGJuXfCWQZ/8upPo+Pn0xwdppu3cKxDvQGIP7DuWtzOkAdb1MgebfAa4+hWxD1VlGIqjvyUREUOwxQ==",
+  "dgSpecHash": "MQrTvuMdz/PnGRHftdI6rMrohMQDaykk400FxjTN+B7Y4PdDvC3Lut8oJ1Ncf0GQX56GxiYgY7IZiCsUs0pr9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj",
+  "projectFilePath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\geral\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",

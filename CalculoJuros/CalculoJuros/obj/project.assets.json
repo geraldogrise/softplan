@@ -1112,11 +1112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
+      "projectUniqueName": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
       "projectName": "CalculoJuros",
-      "projectPath": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
+      "projectPath": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\CalculoJuros\\CalculoJuros.csproj",
       "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\CalculoJuros\\obj\\",
+      "outputPath": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\CalculoJuros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -1137,8 +1137,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\geral\\source\\repos\\CalculoJuros\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\geral\\source\\repos\\CalculoJuros\\Domain\\Domain.csproj"
+            "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\condolivre\\repositories\\softplan\\CalculoJuros\\Domain\\Domain.csproj"
             }
           }
         }

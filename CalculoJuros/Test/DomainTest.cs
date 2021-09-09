@@ -18,7 +18,6 @@ namespace Test
             double result = service.CalcularJuros(valorInicial, tempo);
             Assert.NotNull(result);
             Assert.Equal(result.ToString("N2"), resultado.ToString("N2"));
-
         }
     }
 }

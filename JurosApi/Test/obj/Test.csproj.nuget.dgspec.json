@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\Test.csproj": {}
+    "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj": {
+    "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj",
+        "projectUniqueName": "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj",
         "projectName": "JurosApi",
-        "projectPath": "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj",
+        "projectPath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\obj\\",
+        "outputPath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\Test.csproj": {
+    "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\Test.csproj",
+        "projectPath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\geral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geral\\source\\repos\\JurosApi\\Test\\obj\\",
+        "outputPath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -107,8 +107,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj": {
-                "projectPath": "C:\\Users\\geral\\source\\repos\\JurosApi\\JurosApi\\JurosApi.csproj"
+              "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj": {
+                "projectPath": "C:\\condolivre\\repositories\\softplan\\JurosApi\\JurosApi\\JurosApi.csproj"
               }
             }
           }
