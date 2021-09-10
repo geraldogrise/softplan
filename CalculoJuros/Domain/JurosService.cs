@@ -15,6 +15,8 @@ namespace Domain
         }
         public double CalcularJuros(double valorInicial, int tempo)
         {
+            valorInicial = Math.Abs(valorInicial);
+            tempo = Math.Abs(tempo);
             double valor = 1 + ObterTaxaJuros();
             return valorInicial * Math.Pow(valor, tempo);
         }
